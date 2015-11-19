@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1416694377 source:d:\opengl_assignments\snooker_final\main.cpp
+	<stdio.h>
+	<unistd.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
+1416694377 source:d:\project snooker\snooker_final\main.cpp
+	<stdio.h>
+	<unistd.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
